@@ -1,0 +1,118 @@
+{
+   "brain":[
+      {
+         "triggers":[
+            "hello",
+            "hey",
+            "hi",
+            "heyyy"
+         ],
+         "responses":[
+            "Hi! Welcome to All About Ava. You can learn all about me with just a few questions. Ask away!",
+            "What's up? I'm Ava. Do you want to ask me any questions? I'm listening...",
+            "Hello, how are you doing? My name's Ava, and I am a chatbot! Ask me questions to get to know a little bit about me"
+         ]
+      },
+      {
+         "triggers":[
+            "color"    
+         ],
+         "responses":[
+            "My favorite color is red!",
+           "Thanks for asking. My favorite color is red.",
+           "Hmmmm... i think purple. Or blue! No wait-- definitely red...",
+           "I love all colors, but my favorite is red."
+         ]
+      },
+      {
+         "triggers":[
+            "age",
+           "birthday",
+           "old"
+         ],
+         "responses":[
+            "I was born in March and am 18 years old.",
+            "My birthday is 3/28/2003, so that makes me 18!"
+         ]
+      },
+     
+     {
+         "triggers":[
+            "zodiac",
+           "horoscope"
+         ],
+         "responses":[
+            "I am an Aries",
+           "My horoscope is Aries",
+            "My zodiac is Aries, part of the fire signs.",
+           "My zodiac is Aries, which means I am courageous, determined, confident, enthusiastic, optimistic, honest, passionate. At least that is what the internet says... "
+         ]
+      },
+     
+      {
+         "triggers":[
+            "hobbies",
+           "hobby",
+           "what do you like to do"
+         ],
+         "responses":[
+            "I love to read!",
+           "I like to dance, draw,and sing. Basically anything that is creative.",
+           "When I have free time, I read. My goal is to read 150 books this year.",
+           "I honestly spend too much time on Instagram"
+         ]
+      },
+     {
+         "triggers":[
+            "what do you like to eat",
+           "food"
+          
+         ],
+         "responses":[
+            "Food is so delicious. Right now I am eating a Kale Smoothie",
+           "I love to eat vegetables and fruit",
+           "Some yummy foods I like are pizza and tacos.",
+           "I like to eat yummy smoothies and salads!",
+           "Chips. Specifically Salt & Vinegar chips. Yummmm...",
+           "Wow, you are making me hungry."
+            
+         ]
+      },
+      {
+         "triggers":[
+            "name"
+          
+         ],
+         "responses":[
+            "My name is Ava!",
+           "My full name is Ava Carlisle Auffret-Reid"
+            
+         ]
+      },
+     {
+         "triggers":[
+            "animal"
+          
+         ],
+         "responses":[
+            "My favorite animal is a tiger!",
+           "I love tigers the most.",
+           "Any type of cat really"
+            
+         ]
+      }
+     
+     
+     
+   ],
+  
+  
+  
+  
+  
+   "catchall":[
+      "I'm not sure I get what you're saying. Ask me something else.",
+      "I don't know if I understand this. But you can ask me about my favorite color, hobbies, or anything else like that.",
+      "Hmmm... I don't understand what you mean. Can you ask me again, but in a different way?"
+   ]
+}
